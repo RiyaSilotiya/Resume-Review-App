@@ -1,4 +1,4 @@
-## FitScore- Resume and Job Description Analyzer
+## Resume and Job Description Analyzer
 
 
 ### Installation:
@@ -33,5 +33,6 @@ Ensure all dependencies are installed.
 Run the Streamlit application:
 ```
 streamlit run app.py
+
 ```
-Access the application through your web browser using the provided local address.
+
