@@ -5,3 +5,4 @@ pdf2image
 docx2txt
 PyPDF2
 streamlit-lottie
+pyarrow
